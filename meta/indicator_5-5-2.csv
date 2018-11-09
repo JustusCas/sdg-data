@@ -1,0 +1,1243 @@
+Year,Sex,Occupation category,Occupation sub-category,Value
+2011,Male,,,0.630112524835856
+2011,Female,,,0.35269752200724414
+2011,Male,Chief Executives and Senior Officials,,0.6463001493811353
+2011,Male,Chief Executives and Senior Officials,Chief executives and senior officials,0.789073440807686
+2011,Male,Production Managers and Directors,,0.9032332039358276
+2011,Male,Production Managers and Directors,Production managers and directors in manufacturing,0.8991270222649367
+2011,Male,Production Managers and Directors,Production managers and directors in construction,0.915514282830322
+2011,Male,Production Managers and Directors,Production managers and directors in mining and energy,0.8407889385929239
+2011,Male,Functional Managers and Directors,,0.644162979307601
+2011,Male,Functional Managers and Directors,Financial managers and directors,0.5866689137945563
+2011,Male,Functional Managers and Directors,Marketing and sales directors,0.7782029348430307
+2011,Male,Functional Managers and Directors,Purchasing managers and directors,0.6432615013020342
+2011,Male,Functional Managers and Directors,Advertising and public relations directors,0.6796090456113454
+2011,Male,Functional Managers and Directors,Human resource managers and directors,0.43230949259614454
+2011,Male,Functional Managers and Directors,Information technology and telecommunications directors,0.903726308436127
+2011,Male,Functional Managers and Directors,Functional managers and directors n.e.c.,0.626866033640145
+2011,Male,Financial Institution Managers and Directors,,0.6969700317025483
+2011,Male,Financial Institution Managers and Directors,Financial institution managers and directors,0.6969700317025483
+2011,Male,Managers and Directors in Transport and Logistics,,0.8521193789305881
+2011,Male,Managers and Directors in Transport and Logistics,Managers and directors in transport and distribution,0.892216708908959
+2011,Male,Managers and Directors in Transport and Logistics,Managers and directors in storage and warehousing,0.8134817804480932
+2011,Male,Senior Officers in Protective Services,,0.8680354159064283
+2011,Male,Senior Officers in Protective Services,Officers in armed forces,0.8617777076097253
+2011,Male,Senior Officers in Protective Services,Senior police officers,0.8242146353553504
+2011,Male,Senior Officers in Protective Services,"Senior officers in fire, ambulance, prison and related services",0.949773413897281
+2011,Male,Health and Social Services Managers and Directors,,0.27377419083018906
+2011,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.3295978450434272
+2011,Male,Health and Social Services Managers and Directors,Social services managers and directors,0.20765329079232625
+2011,Male,Managers and Directors in Retail and Wholesale,,0.6186784578877026
+2011,Male,Managers and Directors in Retail and Wholesale,Managers and directors in retail and wholesale,0.6186784578877026
+2011,Male,Managers and Proprietors in Agriculture Related Services,,0.5920728639889857
+2011,Male,Managers and Proprietors in Agriculture Related Services,Managers and proprietors in agriculture and horticulture,0.8609047160731472
+2011,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5835367006022958
+2011,Male,Managers and Proprietors in Hospitality and Leisure Services,Hotel and accommodation managers and proprietors,0.5103773345835129
+2011,Male,Managers and Proprietors in Hospitality and Leisure Services,Restaurant and catering establishment managers and proprietors,0.5845899884001071
+2011,Male,Managers and Proprietors in Hospitality and Leisure Services,Publicans and managers of licensed premises,0.5807515812972839
+2011,Male,Managers and Proprietors in Hospitality and Leisure Services,Leisure and sports managers,0.6394212118861045
+2011,Male,Managers and Proprietors in Health and Care Services,,0.2741023838809817
+2011,Male,Managers and Proprietors in Health and Care Services,Health care practice managers,0.2223951902947018
+2011,Male,Managers and Proprietors in Health and Care Services,"Residential, day and domiciliary care managers and proprietors",0.2934981777178181
+2011,Male,Manager and Proprietors in Other Services,,0.6762174792147053
+2011,Male,Manager and Proprietors in Other Services,"Property, housing and estate managers",0.6565464326924518
+2011,Male,Manager and Proprietors in Other Services,Garage managers and proprietors,0.96406758642071
+2011,Male,Manager and Proprietors in Other Services,Hairdressing and beauty salon managers and proprietors,0.3357948717948718
+2011,Male,Manager and Proprietors in Other Services,Shopkeepers and proprietors - wholesale and retail,0.6975057570954332
+2011,Male,Manager and Proprietors in Other Services,Waste disposal and environmental services managers,0.9469912723932017
+2011,Male,Manager and Proprietors in Other Services,Managers and Proprietors in Other Services,0.6357814563504713
+2011,Male,Natural and Social Science Professionals,,0.5452395928853455
+2011,Male,Natural and Social Science Professionals,Chemical Scientists,0.5611956521739131
+2011,Male,Natural and Social Science Professionals,Biological scientists and biochemists,0.4599573145402719
+2011,Male,Natural and Social Science Professionals,Physical scientists,0.7909272467902996
+2011,Male,Natural and Social Science Professionals,Natural and social science professionals n.e.c,0.6162209814869233
+2011,Male,Engineering Professionals,,0.9243846855059252
+2011,Male,Engineering Professionals,Engineering professionals n.e.c,0.9243846855059252
+2011,Male,Information Technology and Telecommunications Professionals,,0.8193122364345833
+2011,Male,Information Technology and Telecommunications Professionals,IT specialist managers,0.8079027669435139
+2011,Male,Information Technology and Telecommunications Professionals,IT project and programme managers,0.7338103448275862
+2011,Male,Information Technology and Telecommunications Professionals,Web design and development professionals,0.7995528706654617
+2011,Male,Information Technology and Telecommunications Professionals,Information technology and telecommunications professionals n.e.c,0.8699645813115423
+2011,Male,Conservation and Environment Professionals,,0.47247991344246526
+2011,Male,Conservation and Environment Professionals,Environment professionals,0.604625522422502
+2011,Male,Research and Development Managers,,0.7176598623448438
+2011,Male,Research and Development Managers,Research and development managers n.e.c,0.7176598623448438
+2011,Male,Health Professionals,,0.3850351491028151
+2011,Male,Health Professionals,Pharmacists,0.3850351491028151
+2011,Male,Teaching and Educational Professionals,,0.3119606297946252
+2011,Male,Teaching and Educational Professionals,Senior professionals of educational establishments,0.36081533000964283
+2011,Male,Teaching and Educational Professionals,Teaching and other educational professionals n.e.c,0.28964496070998486
+2011,Male,Media Professionals,,0.2717108232924754
+2011,Male,Media Professionals,Public relations professionals,0.40234465382934415
+2011,Male,Protective Service Occupations,,0.7421303587995426
+2011,Male,Protective Service Occupations,Protective service occupations n.e.c,0.7421303587995426
+2011,Male,Sports and Fitness Occupations,,0.5820253410494469
+2011,Male,Sports and Fitness Occupations,"Sports coaches, instructors and officials",0.5820253410494469
+2011,Male,"Sales, Marketing and Related Associate Professionals",,0.6435595534424704
+2011,Male,"Sales, Marketing and Related Associate Professionals",Sales accounts and business development managers,0.6800562866424091
+2011,Male,"Sales, Marketing and Related Associate Professionals",Conference and exhibition managers and organisers,0.31486931693388975
+2011,Male,Public Services and Other Associate Professionals,,0.4233809173293432
+2011,Male,Public Services and Other Associate Professionals,Public services associate professionals,0.4233809173293432
+2011,Male,Administrative Occupations: Office Managers and Supervisors,,0.2623732500381328
+2011,Male,Administrative Occupations: Office Managers and Supervisors,Office managers,0.2623732500381328
+2011,Male,Cleaning and Housekeeping Managers and Supervisors,,0.3224417607546091
+2011,Male,Cleaning and Housekeeping Managers and Supervisors,Cleaning and housekeeping managers and supervisors,0.3224417607546091
+2011,Male,Sales Related Occupations,,0.3640655286687926
+2011,Male,Sales Related Occupations,Market and street traders and assistant,0.6878322504430006
+2011,Female,Chief Executives and Senior Officials,,0.17276195049082374
+2011,Female,Chief Executives and Senior Officials,Chief executives and senior officials,0.21092655919231396
+2011,Female,Production Managers and Directors,,0.09676679606417234
+2011,Female,Production Managers and Directors,Production managers and directors in manufacturing,0.10087297773506328
+2011,Female,Production Managers and Directors,Production managers and directors in construction,0.08448571716967801
+2011,Female,Production Managers and Directors,Production managers and directors in mining and energy,0.15921106140707605
+2011,Female,Functional Managers and Directors,,0.355837020692399
+2011,Female,Functional Managers and Directors,Financial managers and directors,0.4133310862054437
+2011,Female,Functional Managers and Directors,Marketing and sales directors,0.22179706515696931
+2011,Female,Functional Managers and Directors,Purchasing managers and directors,0.3567384986979658
+2011,Female,Functional Managers and Directors,Advertising and public relations directors,0.32039095438865467
+2011,Female,Functional Managers and Directors,Human resource managers and directors,0.5676905074038554
+2011,Female,Functional Managers and Directors,Information technology and telecommunications directors,0.09627369156387301
+2011,Female,Functional Managers and Directors,Functional managers and directors n.e.c.,0.37313396635985496
+2011,Female,Financial Institution Managers and Directors,,0.30302996829745166
+2011,Female,Financial Institution Managers and Directors,Financial institution managers and directors,0.30302996829745166
+2011,Female,Managers and Directors in Transport and Logistics,,0.1478806210694119
+2011,Female,Managers and Directors in Transport and Logistics,Managers and directors in transport and distribution,0.10778329109104107
+2011,Female,Managers and Directors in Transport and Logistics,Managers and directors in storage and warehousing,0.1865182195519068
+2011,Female,Senior Officers in Protective Services,,0.13196458409357176
+2011,Female,Senior Officers in Protective Services,Officers in armed forces,0.1382222923902747
+2011,Female,Senior Officers in Protective Services,Senior police officers,0.1757853646446496
+2011,Female,Senior Officers in Protective Services,"Senior officers in fire, ambulance, prison and related services",0.05022658610271903
+2011,Female,Health and Social Services Managers and Directors,,0.7262258091698109
+2011,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.6704021549565727
+2011,Female,Health and Social Services Managers and Directors,Social services managers and directors,0.7923467092076737
+2011,Female,Managers and Directors in Retail and Wholesale,,0.38132154211229746
+2011,Female,Managers and Directors in Retail and Wholesale,Managers and directors in retail and wholesale,0.38132154211229746
+2011,Female,Managers and Proprietors in Agriculture Related Services,,0.09566046228388361
+2011,Female,Managers and Proprietors in Agriculture Related Services,Managers and proprietors in agriculture and horticulture,0.13909528392685275
+2011,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4164632993977042
+2011,Female,Managers and Proprietors in Hospitality and Leisure Services,Hotel and accommodation managers and proprietors,0.4896226654164872
+2011,Female,Managers and Proprietors in Hospitality and Leisure Services,Restaurant and catering establishment managers and proprietors,0.41541001159989294
+2011,Female,Managers and Proprietors in Hospitality and Leisure Services,Publicans and managers of licensed premises,0.4192484187027161
+2011,Female,Managers and Proprietors in Hospitality and Leisure Services,Leisure and sports managers,0.36057878811389554
+2011,Female,Managers and Proprietors in Health and Care Services,,0.7258976161190184
+2011,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.7776048097052982
+2011,Female,Managers and Proprietors in Health and Care Services,"Residential, day and domiciliary care managers and proprietors",0.706501822282182
+2011,Female,Manager and Proprietors in Other Services,,0.32378252078529474
+2011,Female,Manager and Proprietors in Other Services,"Property, housing and estate managers",0.3434535673075482
+2011,Female,Manager and Proprietors in Other Services,Garage managers and proprietors,0.035932413579290036
+2011,Female,Manager and Proprietors in Other Services,Hairdressing and beauty salon managers and proprietors,0.6642051282051282
+2011,Female,Manager and Proprietors in Other Services,Shopkeepers and proprietors - wholesale and retail,0.3024942429045668
+2011,Female,Manager and Proprietors in Other Services,Waste disposal and environmental services managers,0.053008727606798346
+2011,Female,Manager and Proprietors in Other Services,Managers and Proprietors in Other Services,0.36421854364952866
+2011,Female,Natural and Social Science Professionals,,0.4547604071146545
+2011,Female,Natural and Social Science Professionals,Chemical Scientists,0.43880434782608696
+2011,Female,Natural and Social Science Professionals,Biological scientists and biochemists,0.5400426854597281
+2011,Female,Natural and Social Science Professionals,Physical scientists,0.20907275320970042
+2011,Female,Natural and Social Science Professionals,Natural and social science professionals n.e.c,0.3837790185130767
+2011,Female,Engineering Professionals,,0.07561531449407476
+2011,Female,Engineering Professionals,Engineering professionals n.e.c,0.07561531449407476
+2011,Female,Information Technology and Telecommunications Professionals,,0.18068776356541671
+2011,Female,Information Technology and Telecommunications Professionals,IT specialist managers,0.19209723305648602
+2011,Female,Information Technology and Telecommunications Professionals,IT project and programme managers,0.2661896551724138
+2011,Female,Information Technology and Telecommunications Professionals,Web design and development professionals,0.20044712933453837
+2011,Female,Information Technology and Telecommunications Professionals,Information technology and telecommunications professionals n.e.c,0.13003541868845772
+2011,Female,Conservation and Environment Professionals,,0.3089623114067603
+2011,Female,Conservation and Environment Professionals,Environment professionals,0.395374477577498
+2011,Female,Research and Development Managers,,0.2823401376551562
+2011,Female,Research and Development Managers,Research and development managers n.e.c,0.2823401376551562
+2011,Female,Health Professionals,,0.6149648508971849
+2011,Female,Health Professionals,Pharmacists,0.6149648508971849
+2011,Female,Teaching and Educational Professionals,,0.6880393702053748
+2011,Female,Teaching and Educational Professionals,Senior professionals of educational establishments,0.6391846699903572
+2011,Female,Teaching and Educational Professionals,Teaching and other educational professionals n.e.c,0.7103550392900151
+2011,Female,Media Professionals,,0.4036077641584777
+2011,Female,Media Professionals,Public relations professionals,0.5976553461706559
+2011,Female,Protective Service Occupations,,0.2578696412004574
+2011,Female,Protective Service Occupations,Protective service occupations n.e.c,0.2578696412004574
+2011,Female,Sports and Fitness Occupations,,0.417974658950553
+2011,Female,Sports and Fitness Occupations,"Sports coaches, instructors and officials",0.417974658950553
+2011,Female,"Sales, Marketing and Related Associate Professionals",,0.3564404465575296
+2011,Female,"Sales, Marketing and Related Associate Professionals",Sales accounts and business development managers,0.3199437133575909
+2011,Female,"Sales, Marketing and Related Associate Professionals",Conference and exhibition managers and organisers,0.6851306830661102
+2011,Female,Public Services and Other Associate Professionals,,0.5766190826706568
+2011,Female,Public Services and Other Associate Professionals,Public services associate professionals,0.5766190826706568
+2011,Female,Administrative Occupations: Office Managers and Supervisors,,0.7376267499618673
+2011,Female,Administrative Occupations: Office Managers and Supervisors,Office managers,0.7376267499618673
+2011,Female,Cleaning and Housekeeping Managers and Supervisors,,0.6775582392453909
+2011,Female,Cleaning and Housekeeping Managers and Supervisors,Cleaning and housekeeping managers and supervisors,0.6775582392453909
+2011,Female,Sales Related Occupations,,0.16522853748514976
+2011,Female,Sales Related Occupations,Market and street traders and assistant,0.3121677495569994
+2012,Male,,,0.6298821079556635
+2012,Female,,,0.3660087698751042
+2012,Male,Chief Executives and Senior Officials,,0.7396317883763941
+2012,Male,Chief Executives and Senior Officials,Chief executives and senior officials,0.7967309114508656
+2012,Male,Production Managers and Directors,,0.9073778366168851
+2012,Male,Production Managers and Directors,Production managers and directors in manufacturing,0.8848634850244855
+2012,Male,Production Managers and Directors,Production managers and directors in construction,0.952395907266549
+2012,Male,Production Managers and Directors,Production managers and directors in mining and energy,0.8727964655964306
+2012,Male,Functional Managers and Directors,,0.6201937265137754
+2012,Male,Functional Managers and Directors,Financial managers and directors,0.5792306212561121
+2012,Male,Functional Managers and Directors,Marketing and sales directors,0.773465997915581
+2012,Male,Functional Managers and Directors,Purchasing managers and directors,0.5998224026385893
+2012,Male,Functional Managers and Directors,Advertising and public relations directors,0.6729181951577403
+2012,Male,Functional Managers and Directors,Human resource managers and directors,0.37039349029860613
+2012,Male,Functional Managers and Directors,Information technology and telecommunications directors,0.8528882472758914
+2012,Male,Functional Managers and Directors,Functional managers and directors n.e.c.,0.6466299295246664
+2012,Male,Financial Institution Managers and Directors,,0.6446189900373466
+2012,Male,Financial Institution Managers and Directors,Financial institution managers and directors,0.6446189900373466
+2012,Male,Managers and Directors in Transport and Logistics,,0.8506866305237316
+2012,Male,Managers and Directors in Transport and Logistics,Managers and directors in transport and distribution,0.8766968804183877
+2012,Male,Managers and Directors in Transport and Logistics,Managers and directors in storage and warehousing,0.8291002257917335
+2012,Male,Senior Officers in Protective Services,,0.8625577543370238
+2012,Male,Senior Officers in Protective Services,Officers in armed forces,0.8955191256830601
+2012,Male,Senior Officers in Protective Services,Senior police officers,0.8049925484351714
+2012,Male,Senior Officers in Protective Services,"Senior officers in fire, ambulance, prison and related services",0.8545344252350622
+2012,Male,Health and Social Services Managers and Directors,,0.3213663821828579
+2012,Male,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.35544075987335444
+2012,Male,Health and Social Services Managers and Directors,Social services managers and directors,0.2850353129303069
+2012,Male,Managers and Directors in Retail and Wholesale,,0.6397017249392408
+2012,Male,Managers and Directors in Retail and Wholesale,Managers and directors in retail and wholesale,0.6397017249392408
+2012,Male,Managers and Proprietors in Agriculture Related Services,,0.7340135033758439
+2012,Male,Managers and Proprietors in Agriculture Related Services,Managers and proprietors in agriculture and horticulture,0.7597391228223759
+2012,Male,Managers and Proprietors in Agriculture Related Services,"Managers and proprietors in forestry, fishing and related services",0.677927283137704
+2012,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6051111189877008
+2012,Male,Managers and Proprietors in Hospitality and Leisure Services,Hotel and accommodation managers and proprietors,0.5570308715374114
+2012,Male,Managers and Proprietors in Hospitality and Leisure Services,Restaurant and catering establishment managers and proprietors,0.5812810808058521
+2012,Male,Managers and Proprietors in Hospitality and Leisure Services,Publicans and managers of licensed premises,0.6516065160651606
+2012,Male,Managers and Proprietors in Hospitality and Leisure Services,Leisure and sports managers,0.6639465069736413
+2012,Male,Managers and Proprietors in Hospitality and Leisure Services,Travel agency managers and proprietors,0.5181918412348401
+2012,Male,Managers and Proprietors in Health and Care Services,,0.199107263627756
+2012,Male,Managers and Proprietors in Health and Care Services,Health care practice managers,0.1008798757822425
+2012,Male,Managers and Proprietors in Health and Care Services,"Residential, day and domiciliary care managers and proprietors",0.23386049608789744
+2012,Male,Manager and Proprietors in Other Services,,0.6469368003944269
+2012,Male,Manager and Proprietors in Other Services,"Property, housing and estate managers",0.6639772946827718
+2012,Male,Manager and Proprietors in Other Services,Garage managers and proprietors,0.9343648158864557
+2012,Male,Manager and Proprietors in Other Services,Hairdressing and beauty salon managers and proprietors,0.23439446664089014
+2012,Male,Manager and Proprietors in Other Services,Shopkeepers and proprietors - wholesale and retail,0.6004556864259509
+2012,Male,Manager and Proprietors in Other Services,Waste disposal and environmental services managers,0.9111306995752865
+2012,Male,Manager and Proprietors in Other Services,Managers and Proprietors in Other Services,0.648586998480967
+2012,Male,Natural and Social Science Professionals,,0.5897826303185181
+2012,Male,Natural and Social Science Professionals,Chemical Scientists,0.6741636035137998
+2012,Male,Natural and Social Science Professionals,Biological scientists and biochemists,0.504430924379897
+2012,Male,Natural and Social Science Professionals,Physical scientists,0.8135376074307372
+2012,Male,Natural and Social Science Professionals,Natural and social science professionals n.e.c,0.49827522935779817
+2012,Male,Engineering Professionals,,0.9193836826379953
+2012,Male,Engineering Professionals,Engineering professionals n.e.c,0.9193836826379953
+2012,Male,Information Technology and Telecommunications Professionals,,0.8325539482839843
+2012,Male,Information Technology and Telecommunications Professionals,IT specialist managers,0.842005956743439
+2012,Male,Information Technology and Telecommunications Professionals,IT project and programme managers,0.8034626426720818
+2012,Male,Information Technology and Telecommunications Professionals,Web design and development professionals,0.8212744258891661
+2012,Male,Information Technology and Telecommunications Professionals,Information technology and telecommunications professionals n.e.c,0.8354764551333872
+2012,Male,Conservation and Environment Professionals,,0.6750076475986541
+2012,Male,Conservation and Environment Professionals,Conservation professionals,0.7193283724480061
+2012,Male,Conservation and Environment Professionals,Environment professionals,0.6540886167146974
+2012,Male,Research and Development Managers,,0.6948877236977089
+2012,Male,Research and Development Managers,Research and development managers n.e.c,0.6948877236977089
+2012,Male,Health Professionals,,0.4155127066241661
+2012,Male,Health Professionals,Pharmacists,0.4155127066241661
+2012,Male,Teaching and Educational Professionals,,0.3063480091763301
+2012,Male,Teaching and Educational Professionals,Senior professionals of educational establishments,0.3035529721887712
+2012,Male,Teaching and Educational Professionals,Teaching and other educational professionals n.e.c,0.30773352636205104
+2012,Male,Media Professionals,,0.516872551973486
+2012,Male,Media Professionals,Public relations professionals,0.39706842944112036
+2012,Male,Media Professionals,Advertising accounts managers and creative directors,0.6488415599366816
+2012,Male,Protective Service Occupations,,0.6181208412865477
+2012,Male,Protective Service Occupations,Protective service occupations n.e.c,0.6181208412865477
+2012,Male,Sports and Fitness Occupations,,0.6012418342927366
+2012,Male,Sports and Fitness Occupations,"Sports coaches, instructors and officials",0.6012418342927366
+2012,Male,"Sales, Marketing and Related Associate Professionals",,0.6041472002945847
+2012,Male,"Sales, Marketing and Related Associate Professionals",Sales accounts and business development managers,0.6489610948482417
+2012,Male,"Sales, Marketing and Related Associate Professionals",Conference and exhibition managers and organisers,0.3135593220338983
+2012,Male,Public Services and Other Associate Professionals,,0.4127748648538796
+2012,Male,Public Services and Other Associate Professionals,Public services associate professionals,0.4127748648538796
+2012,Male,Administrative Occupations: Office Managers and Supervisors,,0.22452570478775208
+2012,Male,Administrative Occupations: Office Managers and Supervisors,Office managers,0.22452570478775208
+2012,Male,Cleaning and Housekeeping Managers and Supervisors,,0.30287778483117195
+2012,Male,Cleaning and Housekeeping Managers and Supervisors,Cleaning and housekeeping managers and supervisors,0.30287778483117195
+2012,Male,Sales Related Occupations,,0.6077695588791102
+2012,Male,Sales Related Occupations,Collector salespersons and credit agents,0.6365092073658927
+2012,Male,Sales Related Occupations,Market and street traders and assistant,0.5820719983636735
+2012,Female,Chief Executives and Senior Officials,,0.1887014515496273
+2012,Female,Chief Executives and Senior Officials,Chief executives and senior officials,0.20326908854913442
+2012,Female,Production Managers and Directors,,0.09262216338311495
+2012,Female,Production Managers and Directors,Production managers and directors in manufacturing,0.11513651497551451
+2012,Female,Production Managers and Directors,Production managers and directors in construction,0.047604092733450995
+2012,Female,Production Managers and Directors,Production managers and directors in mining and energy,0.1272035344035694
+2012,Female,Functional Managers and Directors,,0.3798062734862247
+2012,Female,Functional Managers and Directors,Financial managers and directors,0.42076937874388787
+2012,Female,Functional Managers and Directors,Marketing and sales directors,0.22653400208441896
+2012,Female,Functional Managers and Directors,Purchasing managers and directors,0.4001775973614106
+2012,Female,Functional Managers and Directors,Advertising and public relations directors,0.32708180484225974
+2012,Female,Functional Managers and Directors,Human resource managers and directors,0.6296065097013939
+2012,Female,Functional Managers and Directors,Information technology and telecommunications directors,0.14711175272410862
+2012,Female,Functional Managers and Directors,Functional managers and directors n.e.c.,0.35337007047533364
+2012,Female,Financial Institution Managers and Directors,,0.3553810099626534
+2012,Female,Financial Institution Managers and Directors,Financial institution managers and directors,0.3553810099626534
+2012,Female,Managers and Directors in Transport and Logistics,,0.14931336947626841
+2012,Female,Managers and Directors in Transport and Logistics,Managers and directors in transport and distribution,0.12330311958161237
+2012,Female,Managers and Directors in Transport and Logistics,Managers and directors in storage and warehousing,0.17089977420826655
+2012,Female,Senior Officers in Protective Services,,0.1374422456629762
+2012,Female,Senior Officers in Protective Services,Officers in armed forces,0.10448087431693989
+2012,Female,Senior Officers in Protective Services,Senior police officers,0.19500745156482863
+2012,Female,Senior Officers in Protective Services,"Senior officers in fire, ambulance, prison and related services",0.14546557476493782
+2012,Female,Health and Social Services Managers and Directors,,0.6786336178171422
+2012,Female,Health and Social Services Managers and Directors,Health services and public health managers and directors,0.6445592401266456
+2012,Female,Health and Social Services Managers and Directors,Social services managers and directors,0.7149646870696931
+2012,Female,Managers and Directors in Retail and Wholesale,,0.3602982750607592
+2012,Female,Managers and Directors in Retail and Wholesale,Managers and directors in retail and wholesale,0.3602982750607592
+2012,Female,Managers and Proprietors in Agriculture Related Services,,0.265986496624156
+2012,Female,Managers and Proprietors in Agriculture Related Services,Managers and proprietors in agriculture and horticulture,0.2402608771776241
+2012,Female,Managers and Proprietors in Agriculture Related Services,"Managers and proprietors in forestry, fishing and related services",0.322072716862296
+2012,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.3948888810122993
+2012,Female,Managers and Proprietors in Hospitality and Leisure Services,Hotel and accommodation managers and proprietors,0.4429691284625886
+2012,Female,Managers and Proprietors in Hospitality and Leisure Services,Restaurant and catering establishment managers and proprietors,0.4187189191941479
+2012,Female,Managers and Proprietors in Hospitality and Leisure Services,Publicans and managers of licensed premises,0.3483934839348393
+2012,Female,Managers and Proprietors in Hospitality and Leisure Services,Leisure and sports managers,0.3360534930263587
+2012,Female,Managers and Proprietors in Hospitality and Leisure Services,Travel agency managers and proprietors,0.48180815876515987
+2012,Female,Managers and Proprietors in Health and Care Services,,0.800892736372244
+2012,Female,Managers and Proprietors in Health and Care Services,Health care practice managers,0.8991201242177574
+2012,Female,Managers and Proprietors in Health and Care Services,"Residential, day and domiciliary care managers and proprietors",0.7661395039121025
+2012,Female,Manager and Proprietors in Other Services,,0.3530631996055731
+2012,Female,Manager and Proprietors in Other Services,"Property, housing and estate managers",0.33602270531722817
+2012,Female,Manager and Proprietors in Other Services,Garage managers and proprietors,0.0656351841135443
+2012,Female,Manager and Proprietors in Other Services,Hairdressing and beauty salon managers and proprietors,0.7656055333591099
+2012,Female,Manager and Proprietors in Other Services,Shopkeepers and proprietors - wholesale and retail,0.39954431357404907
+2012,Female,Manager and Proprietors in Other Services,Waste disposal and environmental services managers,0.08886930042471351
+2012,Female,Manager and Proprietors in Other Services,Managers and Proprietors in Other Services,0.35141300151903304
+2012,Female,Natural and Social Science Professionals,,0.41021736968148187
+2012,Female,Natural and Social Science Professionals,Chemical Scientists,0.3258363964862002
+2012,Female,Natural and Social Science Professionals,Biological scientists and biochemists,0.49556907562010294
+2012,Female,Natural and Social Science Professionals,Physical scientists,0.1864623925692628
+2012,Female,Natural and Social Science Professionals,Natural and social science professionals n.e.c,0.5017247706422019
+2012,Female,Engineering Professionals,,0.08061631736200467
+2012,Female,Engineering Professionals,Engineering professionals n.e.c,0.08061631736200467
+2012,Female,Information Technology and Telecommunications Professionals,,0.1674460517160157
+2012,Female,Information Technology and Telecommunications Professionals,IT specialist managers,0.157994043256561
+2012,Female,Information Technology and Telecommunications Professionals,IT project and programme managers,0.19653735732791822
+2012,Female,Information Technology and Telecommunications Professionals,Web design and development professionals,0.1787255741108339
+2012,Female,Information Technology and Telecommunications Professionals,Information technology and telecommunications professionals n.e.c,0.16452354486661278
+2012,Female,Conservation and Environment Professionals,,0.324992352401346
+2012,Female,Conservation and Environment Professionals,Conservation professionals,0.2806716275519939
+2012,Female,Conservation and Environment Professionals,Environment professionals,0.3459113832853026
+2012,Female,Research and Development Managers,,0.3051122763022911
+2012,Female,Research and Development Managers,Research and development managers n.e.c,0.3051122763022911
+2012,Female,Health Professionals,,0.5844872933758339
+2012,Female,Health Professionals,Pharmacists,0.5844872933758339
+2012,Female,Teaching and Educational Professionals,,0.6936519908236699
+2012,Female,Teaching and Educational Professionals,Senior professionals of educational establishments,0.6964470278112288
+2012,Female,Teaching and Educational Professionals,Teaching and other educational professionals n.e.c,0.6922664736379489
+2012,Female,Media Professionals,,0.48312744802651403
+2012,Female,Media Professionals,Public relations professionals,0.6029315705588796
+2012,Female,Media Professionals,Advertising accounts managers and creative directors,0.3511584400633185
+2012,Female,Protective Service Occupations,,0.3818791587134524
+2012,Female,Protective Service Occupations,Protective service occupations n.e.c,0.3818791587134524
+2012,Female,Sports and Fitness Occupations,,0.3987581657072634
+2012,Female,Sports and Fitness Occupations,"Sports coaches, instructors and officials",0.3987581657072634
+2012,Female,"Sales, Marketing and Related Associate Professionals",,0.3958527997054153
+2012,Female,"Sales, Marketing and Related Associate Professionals",Sales accounts and business development managers,0.35103890515175823
+2012,Female,"Sales, Marketing and Related Associate Professionals",Conference and exhibition managers and organisers,0.6864406779661016
+2012,Female,Public Services and Other Associate Professionals,,0.5872251351461204
+2012,Female,Public Services and Other Associate Professionals,Public services associate professionals,0.5872251351461204
+2012,Female,Administrative Occupations: Office Managers and Supervisors,,0.7754742952122479
+2012,Female,Administrative Occupations: Office Managers and Supervisors,Office managers,0.7754742952122479
+2012,Female,Cleaning and Housekeeping Managers and Supervisors,,0.697122215168828
+2012,Female,Cleaning and Housekeeping Managers and Supervisors,Cleaning and housekeeping managers and supervisors,0.697122215168828
+2012,Female,Sales Related Occupations,,0.3922304411208898
+2012,Female,Sales Related Occupations,Collector salespersons and credit agents,0.3634907926341073
+2012,Female,Sales Related Occupations,Market and street traders and assistant,0.41792800163632643
+2013,Male,,,0.6297903826684983
+2013,Female,,,0.3669088159350088
+2013,Male,Chief Executives and Senior Officials,,0.6903859579136332
+2013,Male,Chief Executives and Senior Officials,,0.7265657037005614
+2013,Male,Chief Executives and Senior Officials,,0.42097504475097397
+2013,Male,Production Managers and Directors,,0.9156193101355452
+2013,Male,Production Managers and Directors,,0.9069210591060457
+2013,Male,Production Managers and Directors,,0.943868513163902
+2013,Male,Production Managers and Directors,,0.8173050299953853
+2013,Male,Functional Managers and Directors,,0.6243653795842122
+2013,Male,Functional Managers and Directors,,0.6050332930518496
+2013,Male,Functional Managers and Directors,,0.7347926566129394
+2013,Male,Functional Managers and Directors,,0.7351825413012442
+2013,Male,Functional Managers and Directors,,0.3490258844307081
+2013,Male,Functional Managers and Directors,,0.38804603048829245
+2013,Male,Functional Managers and Directors,,0.8517842270484977
+2013,Male,Functional Managers and Directors,,0.6605349775161096
+2013,Male,Financial Institution Managers and Directors,,0.6253764594248937
+2013,Male,Financial Institution Managers and Directors,,0.6253764594248937
+2013,Male,Managers and Directors in Transport and Logistics,,0.8712459147339585
+2013,Male,Managers and Directors in Transport and Logistics,,0.8868077203687736
+2013,Male,Managers and Directors in Transport and Logistics,,0.8597882564363011
+2013,Male,Senior Officers in Protective Services,,0.8437110584073643
+2013,Male,Senior Officers in Protective Services,,0.910923033760404
+2013,Male,Senior Officers in Protective Services,,0.7249752229930624
+2013,Male,Senior Officers in Protective Services,,0.860553293076815
+2013,Male,Health and Social Services Managers and Directors,,0.33957883722451115
+2013,Male,Health and Social Services Managers and Directors,,0.35418704461523104
+2013,Male,Health and Social Services Managers and Directors,,0.3220090754123551
+2013,Male,Managers and Directors in Retail and Wholesale,,0.6233283094166596
+2013,Male,Managers and Directors in Retail and Wholesale,,0.6233283094166596
+2013,Male,Managers and Proprietors in Agriculture Related Services,,0.4689163435631202
+2013,Male,Managers and Proprietors in Agriculture Related Services,,0.6325469588550984
+2013,Male,Managers and Proprietors in Agriculture Related Services,,0.23561294436473776
+2013,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5940787519139503
+2013,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.482296160252851
+2013,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6165849673202615
+2013,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.58748357509082
+2013,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6718337918603549
+2013,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5166642928357784
+2013,Male,Managers and Proprietors in Health and Care Services,,0.24513470291548775
+2013,Male,Managers and Proprietors in Health and Care Services,,0.12811701880659393
+2013,Male,Managers and Proprietors in Health and Care Services,,0.2873065015479876
+2013,Male,Manager and Proprietors in Other Services,,0.6572301989192288
+2013,Male,Manager and Proprietors in Other Services,,0.6191866414649122
+2013,Male,Manager and Proprietors in Other Services,,0.9786432160804021
+2013,Male,Manager and Proprietors in Other Services,,0.24058079859807235
+2013,Male,Manager and Proprietors in Other Services,,0.6176836305899007
+2013,Male,Manager and Proprietors in Other Services,,0.8217947011050459
+2013,Male,Manager and Proprietors in Other Services,,0.7089391826050404
+2013,Male,Natural and Social Science Professionals,,0.5675593690414283
+2013,Male,Natural and Social Science Professionals,,0.7638894365364142
+2013,Male,Natural and Social Science Professionals,,0.43333150729957
+2013,Male,Natural and Social Science Professionals,,0.7500314136125654
+2013,Male,Natural and Social Science Professionals,,0.5962844093321812
+2013,Male,Engineering Professionals,,0.8770131403733574
+2013,Male,Engineering Professionals,,0.8770131403733574
+2013,Male,Information Technology and Telecommunications Professionals,,0.8677100084273128
+2013,Male,Information Technology and Telecommunications Professionals,,0.8784399669809676
+2013,Male,Information Technology and Telecommunications Professionals,,0.8487202551312454
+2013,Male,Information Technology and Telecommunications Professionals,,0.7845307401957649
+2013,Male,Information Technology and Telecommunications Professionals,,0.895593909106391
+2013,Male,Conservation and Environment Professionals,,0.6006384602928589
+2013,Male,Conservation and Environment Professionals,,0.5897771952817824
+2013,Male,Conservation and Environment Professionals,,0.6049128010057703
+2013,Male,Research and Development Managers,,0.6366287470772141
+2013,Male,Research and Development Managers,,0.6366287470772141
+2013,Male,Health Professionals,,0.3223817493173611
+2013,Male,Health Professionals,,0.3223817493173611
+2013,Male,Teaching and Educational Professionals,,0.2757458884924865
+2013,Male,Teaching and Educational Professionals,,0.30246429132004393
+2013,Male,Teaching and Educational Professionals,,0.2604421175101803
+2013,Male,Media Professionals,,0.4123008532728683
+2013,Male,Media Professionals,,0.32147212661589747
+2013,Male,Media Professionals,,0.5235093074957693
+2013,Male,Protective Service Occupations,,0.7925248759012601
+2013,Male,Protective Service Occupations,,0.7925248759012601
+2013,Male,Sports and Fitness Occupations,,0.6307666945649142
+2013,Male,Sports and Fitness Occupations,,0.6307666945649142
+2013,Male,"Sales, Marketing and Related Associate Professionals",,0.5911192739844425
+2013,Male,"Sales, Marketing and Related Associate Professionals",,0.6478714766849766
+2013,Male,"Sales, Marketing and Related Associate Professionals",,0.2358339608433735
+2013,Male,Public Services and Other Associate Professionals,,0.3083045308128189
+2013,Male,Public Services and Other Associate Professionals,,0.3083045308128189
+2013,Male,Administrative Occupations: Office Managers and Supervisors,,0.2566745178684585
+2013,Male,Administrative Occupations: Office Managers and Supervisors,,0.2566745178684585
+2013,Male,Cleaning and Housekeeping Managers and Supervisors,,0.2505640555594726
+2013,Male,Cleaning and Housekeeping Managers and Supervisors,,0.2505640555594726
+2013,Male,Sales Related Occupations,,0.6484470601946274
+2013,Male,Sales Related Occupations,,0.7190825047967905
+2013,Male,Sales Related Occupations,,0.6130119005950297
+2013,Female,Chief Executives and Senior Officials,,0.30961404208636684
+2013,Female,Chief Executives and Senior Officials,,0.2734342962994386
+2013,Female,Chief Executives and Senior Officials,,0.579024955249026
+2013,Female,Production Managers and Directors,,0.08438068986445478
+2013,Female,Production Managers and Directors,,0.09307894089395426
+2013,Female,Production Managers and Directors,,0.056131486836098005
+2013,Female,Production Managers and Directors,,0.18269497000461468
+2013,Female,Functional Managers and Directors,,0.37563462041578777
+2013,Female,Functional Managers and Directors,,0.39496670694815045
+2013,Female,Functional Managers and Directors,,0.26520734338706065
+2013,Female,Functional Managers and Directors,,0.26481745869875584
+2013,Female,Functional Managers and Directors,,0.6509741155692919
+2013,Female,Functional Managers and Directors,,0.6119539695117076
+2013,Female,Functional Managers and Directors,,0.14821577295150234
+2013,Female,Functional Managers and Directors,,0.33946502248389043
+2013,Female,Financial Institution Managers and Directors,,0.3746235405751062
+2013,Female,Financial Institution Managers and Directors,,0.3746235405751062
+2013,Female,Managers and Directors in Transport and Logistics,,0.1287540852660415
+2013,Female,Managers and Directors in Transport and Logistics,,0.11319227963122637
+2013,Female,Managers and Directors in Transport and Logistics,,0.14021174356369887
+2013,Female,Senior Officers in Protective Services,,0.15628894159263576
+2013,Female,Senior Officers in Protective Services,,0.089076966239596
+2013,Female,Senior Officers in Protective Services,,0.27502477700693756
+2013,Female,Senior Officers in Protective Services,,0.13944670692318495
+2013,Female,Health and Social Services Managers and Directors,,0.6604211627754889
+2013,Female,Health and Social Services Managers and Directors,,0.6458129553847689
+2013,Female,Health and Social Services Managers and Directors,,0.677990924587645
+2013,Female,Managers and Directors in Retail and Wholesale,,0.37667169058334043
+2013,Female,Managers and Directors in Retail and Wholesale,,0.37667169058334043
+2013,Female,Managers and Proprietors in Agriculture Related Services,,0.5310836564368798
+2013,Female,Managers and Proprietors in Agriculture Related Services,,0.3674530411449016
+2013,Female,Managers and Proprietors in Agriculture Related Services,,0.7643870556352622
+2013,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4059212480860497
+2013,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.5177038397471491
+2013,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.3834150326797386
+2013,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4125164249091799
+2013,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.3281662081396452
+2013,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.48333570716422164
+2013,Female,Managers and Proprietors in Health and Care Services,,0.7548652970845122
+2013,Female,Managers and Proprietors in Health and Care Services,,0.8718829811934061
+2013,Female,Managers and Proprietors in Health and Care Services,,0.7126934984520124
+2013,Female,Manager and Proprietors in Other Services,,0.34276980108077115
+2013,Female,Manager and Proprietors in Other Services,,0.3808133585350878
+2013,Female,Manager and Proprietors in Other Services,,0.02135678391959799
+2013,Female,Manager and Proprietors in Other Services,,0.7594192014019276
+2013,Female,Manager and Proprietors in Other Services,,0.3823163694100993
+2013,Female,Manager and Proprietors in Other Services,,0.17820529889495407
+2013,Female,Manager and Proprietors in Other Services,,0.2910608173949596
+2013,Female,Natural and Social Science Professionals,,0.43244063095857166
+2013,Female,Natural and Social Science Professionals,,0.23611056346358583
+2013,Female,Natural and Social Science Professionals,,0.5666684927004301
+2013,Female,Natural and Social Science Professionals,,0.24996858638743455
+2013,Female,Natural and Social Science Professionals,,0.4037155906678188
+2013,Female,Engineering Professionals,,0.12298685962664255
+2013,Female,Engineering Professionals,,0.12298685962664255
+2013,Female,Information Technology and Telecommunications Professionals,,0.13228999157268714
+2013,Female,Information Technology and Telecommunications Professionals,,0.12156003301903245
+2013,Female,Information Technology and Telecommunications Professionals,,0.1512797448687546
+2013,Female,Information Technology and Telecommunications Professionals,,0.21546925980423517
+2013,Female,Information Technology and Telecommunications Professionals,,0.10440609089360903
+2013,Female,Conservation and Environment Professionals,,0.39936153970714106
+2013,Female,Conservation and Environment Professionals,,0.41022280471821754
+2013,Female,Conservation and Environment Professionals,,0.3950871989942297
+2013,Female,Research and Development Managers,,0.3633712529227859
+2013,Female,Research and Development Managers,,0.3633712529227859
+2013,Female,Health Professionals,,0.6776182506826389
+2013,Female,Health Professionals,,0.6776182506826389
+2013,Female,Teaching and Educational Professionals,,0.7242541115075135
+2013,Female,Teaching and Educational Professionals,,0.6975357086799561
+2013,Female,Teaching and Educational Professionals,,0.7395578824898197
+2013,Female,Media Professionals,,0.5876991467271316
+2013,Female,Media Professionals,,0.6785278733841026
+2013,Female,Media Professionals,,0.4764906925042307
+2013,Female,Protective Service Occupations,,0.20747512409873992
+2013,Female,Protective Service Occupations,,0.20747512409873992
+2013,Female,Sports and Fitness Occupations,,0.36923330543508587
+2013,Female,Sports and Fitness Occupations,,0.36923330543508587
+2013,Female,"Sales, Marketing and Related Associate Professionals",,0.40888072601555747
+2013,Female,"Sales, Marketing and Related Associate Professionals",,0.3521285233150235
+2013,Female,"Sales, Marketing and Related Associate Professionals",,0.7641660391566265
+2013,Female,Public Services and Other Associate Professionals,,0.6916954691871812
+2013,Female,Public Services and Other Associate Professionals,,0.6916954691871812
+2013,Female,Administrative Occupations: Office Managers and Supervisors,,0.7433254821315415
+2013,Female,Administrative Occupations: Office Managers and Supervisors,,0.7433254821315415
+2013,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7494359444405274
+2013,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7494359444405274
+2013,Female,Sales Related Occupations,,0.35155293980537267
+2013,Female,Sales Related Occupations,,0.28091749520320947
+2013,Female,Sales Related Occupations,,0.38698809940497025
+2014,Male,,,0.6215133609058313
+2014,Female,,,0.3724972707593076
+2014,Male,Chief Executives and Senior Officials,,0.7734607218683652
+2014,Male,Chief Executives and Senior Officials,,0.8331141730032589
+2014,Male,Production Managers and Directors,,0.9073197004784146
+2014,Male,Production Managers and Directors,,0.8850708991298744
+2014,Male,Production Managers and Directors,,0.9434925474841623
+2014,Male,Production Managers and Directors,,0.8920863309352518
+2014,Male,Functional Managers and Directors,,0.6249647132625856
+2014,Male,Functional Managers and Directors,,0.658913711945671
+2014,Male,Functional Managers and Directors,,0.670151115699686
+2014,Male,Functional Managers and Directors,,0.6789290823625588
+2014,Male,Functional Managers and Directors,,0.48167119504699124
+2014,Male,Functional Managers and Directors,,0.3788771387641444
+2014,Male,Functional Managers and Directors,,0.9053551434344475
+2014,Male,Functional Managers and Directors,,0.5764688254684552
+2014,Male,Financial Institution Managers and Directors,,0.649173538065233
+2014,Male,Financial Institution Managers and Directors,,0.649173538065233
+2014,Male,Managers and Directors in Transport and Logistics,,0.8469428033415946
+2014,Male,Managers and Directors in Transport and Logistics,,0.8821025382900698
+2014,Male,Managers and Directors in Transport and Logistics,,0.8181807486882662
+2014,Male,Senior Officers in Protective Services,,0.813681547441184
+2014,Male,Senior Officers in Protective Services,,0.8626842174312328
+2014,Male,Senior Officers in Protective Services,,0.7155866683186718
+2014,Male,Senior Officers in Protective Services,,0.8550491510277033
+2014,Male,Health and Social Services Managers and Directors,,0.28664335999233753
+2014,Male,Health and Social Services Managers and Directors,,0.32670836051106933
+2014,Male,Health and Social Services Managers and Directors,,0.24669561391763423
+2014,Male,Managers and Directors in Retail and Wholesale,,0.6438679174529081
+2014,Male,Managers and Directors in Retail and Wholesale,,0.6438679174529081
+2014,Male,Managers and Proprietors in Agriculture Related Services,,0.6330668404300644
+2014,Male,Managers and Proprietors in Agriculture Related Services,,0.7868178420134563
+2014,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5679088058486219
+2014,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5414838664024908
+2014,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5524844695731226
+2014,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6310112457882991
+2014,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5987286217551318
+2014,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.46740733457870415
+2014,Male,Managers and Proprietors in Health and Care Services,,0.19186008542208174
+2014,Male,Managers and Proprietors in Health and Care Services,,0.12959692499480574
+2014,Male,Managers and Proprietors in Health and Care Services,,0.21277635275436668
+2014,Male,Manager and Proprietors in Other Services,,0.6264507255055206
+2014,Male,Manager and Proprietors in Other Services,,0.6185077211402519
+2014,Male,Manager and Proprietors in Other Services,,0.9105830903790088
+2014,Male,Manager and Proprietors in Other Services,,0.29428078218298104
+2014,Male,Manager and Proprietors in Other Services,,0.6435236896800374
+2014,Male,Manager and Proprietors in Other Services,,0.9065775482302901
+2014,Male,Manager and Proprietors in Other Services,,0.613539342194625
+2014,Male,Natural and Social Science Professionals,,0.5790541069139621
+2014,Male,Natural and Social Science Professionals,,0.7299621603027175
+2014,Male,Natural and Social Science Professionals,,0.5027006781264785
+2014,Male,Natural and Social Science Professionals,,0.7349019303822002
+2014,Male,Natural and Social Science Professionals,,0.5119325682949122
+2014,Male,Engineering Professionals,,0.8994602682627051
+2014,Male,Engineering Professionals,,0.8994602682627051
+2014,Male,Information Technology and Telecommunications Professionals,,0.8359367867220693
+2014,Male,Information Technology and Telecommunications Professionals,,0.8368419602765764
+2014,Male,Information Technology and Telecommunications Professionals,,0.8563306202803161
+2014,Male,Information Technology and Telecommunications Professionals,,0.706222412074612
+2014,Male,Information Technology and Telecommunications Professionals,,0.8859276604752077
+2014,Male,Conservation and Environment Professionals,,0.5872815469466409
+2014,Male,Conservation and Environment Professionals,,0.629689421894219
+2014,Male,Conservation and Environment Professionals,,0.5701173029652448
+2014,Male,Research and Development Managers,,0.7226011951742023
+2014,Male,Research and Development Managers,,0.7226011951742023
+2014,Male,Health Professionals,,0.3850703753351206
+2014,Male,Health Professionals,,0.3850703753351206
+2014,Male,Teaching and Educational Professionals,,0.26682649897925753
+2014,Male,Teaching and Educational Professionals,,0.2520788358519229
+2014,Male,Teaching and Educational Professionals,,0.2736152005888848
+2014,Male,Media Professionals,,0.44344930827999174
+2014,Male,Media Professionals,,0.3304838204359307
+2014,Male,Media Professionals,,0.5973416255106396
+2014,Male,Protective Service Occupations,,0.7838440714672442
+2014,Male,Protective Service Occupations,,0.7838440714672442
+2014,Male,Sports and Fitness Occupations,,0.6381833811528027
+2014,Male,Sports and Fitness Occupations,,0.6381833811528027
+2014,Male,"Sales, Marketing and Related Associate Professionals",,0.6152685216811101
+2014,Male,"Sales, Marketing and Related Associate Professionals",,0.6494474520963421
+2014,Male,"Sales, Marketing and Related Associate Professionals",,0.3646907003292358
+2014,Male,Public Services and Other Associate Professionals,,0.3992307397910368
+2014,Male,Public Services and Other Associate Professionals,,0.3992307397910368
+2014,Male,Administrative Occupations: Office Managers and Supervisors,,0.23202620764215887
+2014,Male,Administrative Occupations: Office Managers and Supervisors,,0.23202620764215887
+2014,Male,Cleaning and Housekeeping Managers and Supervisors,,0.29838872260905974
+2014,Male,Cleaning and Housekeeping Managers and Supervisors,,0.29838872260905974
+2014,Male,Sales Related Occupations,,0.5599347706383159
+2014,Male,Sales Related Occupations,,0.4649678872299608
+2014,Male,Sales Related Occupations,,0.6579173838209983
+2014,Female,Chief Executives and Senior Officials,,0.15493630573248407
+2014,Female,Chief Executives and Senior Officials,,0.16688582699674118
+2014,Female,Production Managers and Directors,,0.09268029952158535
+2014,Female,Production Managers and Directors,,0.11492910087012569
+2014,Female,Production Managers and Directors,,0.05650745251583768
+2014,Female,Production Managers and Directors,,0.1079136690647482
+2014,Female,Functional Managers and Directors,,0.3750352867374144
+2014,Female,Functional Managers and Directors,,0.341086288054329
+2014,Female,Functional Managers and Directors,,0.329848884300314
+2014,Female,Functional Managers and Directors,,0.3210709176374412
+2014,Female,Functional Managers and Directors,,0.5183288049530088
+2014,Female,Functional Managers and Directors,,0.6211228612358556
+2014,Female,Functional Managers and Directors,,0.09464485656555256
+2014,Female,Functional Managers and Directors,,0.4235311745315447
+2014,Female,Financial Institution Managers and Directors,,0.35082646193476696
+2014,Female,Financial Institution Managers and Directors,,0.35082646193476696
+2014,Female,Managers and Directors in Transport and Logistics,,0.15305719665840542
+2014,Female,Managers and Directors in Transport and Logistics,,0.11789746170993025
+2014,Female,Managers and Directors in Transport and Logistics,,0.18181925131173385
+2014,Female,Senior Officers in Protective Services,,0.1863184525588159
+2014,Female,Senior Officers in Protective Services,,0.13731578256876723
+2014,Female,Senior Officers in Protective Services,,0.2844133316813282
+2014,Female,Senior Officers in Protective Services,,0.14495084897229668
+2014,Female,Health and Social Services Managers and Directors,,0.7133566400076625
+2014,Female,Health and Social Services Managers and Directors,,0.6732916394889307
+2014,Female,Health and Social Services Managers and Directors,,0.7533043860823657
+2014,Female,Managers and Directors in Retail and Wholesale,,0.356132082547092
+2014,Female,Managers and Directors in Retail and Wholesale,,0.356132082547092
+2014,Female,Managers and Proprietors in Agriculture Related Services,,0.1715245231949074
+2014,Female,Managers and Proprietors in Agriculture Related Services,,0.21318215798654375
+2014,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.43209119415137814
+2014,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4585161335975092
+2014,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4475155304268774
+2014,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.36898875421170085
+2014,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.40127137824486825
+2014,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.5325926654212958
+2014,Female,Managers and Proprietors in Health and Care Services,,0.8081399145779182
+2014,Female,Managers and Proprietors in Health and Care Services,,0.8704030750051943
+2014,Female,Managers and Proprietors in Health and Care Services,,0.7872236472456333
+2014,Female,Manager and Proprietors in Other Services,,0.3735492744944794
+2014,Female,Manager and Proprietors in Other Services,,0.3814922788597481
+2014,Female,Manager and Proprietors in Other Services,,0.08941690962099125
+2014,Female,Manager and Proprietors in Other Services,,0.705719217817019
+2014,Female,Manager and Proprietors in Other Services,,0.3564763103199627
+2014,Female,Manager and Proprietors in Other Services,,0.09342245176970985
+2014,Female,Manager and Proprietors in Other Services,,0.386460657805375
+2014,Female,Natural and Social Science Professionals,,0.42094589308603786
+2014,Female,Natural and Social Science Professionals,,0.2700378396972824
+2014,Female,Natural and Social Science Professionals,,0.49729932187352155
+2014,Female,Natural and Social Science Professionals,,0.2650980696177998
+2014,Female,Natural and Social Science Professionals,,0.4880674317050878
+2014,Female,Engineering Professionals,,0.10053973173729493
+2014,Female,Engineering Professionals,,0.10053973173729493
+2014,Female,Information Technology and Telecommunications Professionals,,0.16406321327793078
+2014,Female,Information Technology and Telecommunications Professionals,,0.1631580397234236
+2014,Female,Information Technology and Telecommunications Professionals,,0.14366937971968383
+2014,Female,Information Technology and Telecommunications Professionals,,0.293777587925388
+2014,Female,Information Technology and Telecommunications Professionals,,0.1140723395247923
+2014,Female,Conservation and Environment Professionals,,0.412718453053359
+2014,Female,Conservation and Environment Professionals,,0.37031057810578105
+2014,Female,Conservation and Environment Professionals,,0.4298826970347553
+2014,Female,Research and Development Managers,,0.2773988048257977
+2014,Female,Research and Development Managers,,0.2773988048257977
+2014,Female,Health Professionals,,0.6149296246648793
+2014,Female,Health Professionals,,0.6149296246648793
+2014,Female,Teaching and Educational Professionals,,0.7331735010207425
+2014,Female,Teaching and Educational Professionals,,0.7479211641480771
+2014,Female,Teaching and Educational Professionals,,0.7263847994111152
+2014,Female,Media Professionals,,0.5565506917200083
+2014,Female,Media Professionals,,0.6695161795640693
+2014,Female,Media Professionals,,0.4026583744893604
+2014,Female,Protective Service Occupations,,0.2161559285327558
+2014,Female,Protective Service Occupations,,0.2161559285327558
+2014,Female,Sports and Fitness Occupations,,0.36181661884719724
+2014,Female,Sports and Fitness Occupations,,0.36181661884719724
+2014,Female,"Sales, Marketing and Related Associate Professionals",,0.3847314783188899
+2014,Female,"Sales, Marketing and Related Associate Professionals",,0.35055254790365786
+2014,Female,"Sales, Marketing and Related Associate Professionals",,0.6353092996707642
+2014,Female,Public Services and Other Associate Professionals,,0.6007692602089633
+2014,Female,Public Services and Other Associate Professionals,,0.6007692602089633
+2014,Female,Administrative Occupations: Office Managers and Supervisors,,0.7679737923578411
+2014,Female,Administrative Occupations: Office Managers and Supervisors,,0.7679737923578411
+2014,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7016112773909402
+2014,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7016112773909402
+2014,Female,Sales Related Occupations,,0.44006522936168413
+2014,Female,Sales Related Occupations,,0.5350321127700391
+2014,Female,Sales Related Occupations,,0.3420826161790017
+2015,Male,,,0.6185062267640988
+2015,Female,,,0.37798031046867664
+2015,Male,Chief Executives and Senior Officials,,0.7524910275783906
+2015,Male,Chief Executives and Senior Officials,,0.7512463884969428
+2015,Male,Chief Executives and Senior Officials,,0.7614928564486345
+2015,Male,Production Managers and Directors,,0.9014788695331825
+2015,Male,Production Managers and Directors,,0.8804281029051226
+2015,Male,Production Managers and Directors,,0.9303157692060844
+2015,Male,Production Managers and Directors,,0.9676482787225218
+2015,Male,Functional Managers and Directors,,0.6574277143069105
+2015,Male,Functional Managers and Directors,,0.6324978586456661
+2015,Male,Functional Managers and Directors,,0.742972249782027
+2015,Male,Functional Managers and Directors,,0.716964731556657
+2015,Male,Functional Managers and Directors,,0.6038698328935796
+2015,Male,Functional Managers and Directors,,0.43593384382448186
+2015,Male,Functional Managers and Directors,,0.9142382356825285
+2015,Male,Functional Managers and Directors,,0.607665956356378
+2015,Male,Financial Institution Managers and Directors,,0.6008616650179622
+2015,Male,Financial Institution Managers and Directors,,0.6008616650179622
+2015,Male,Managers and Directors in Transport and Logistics,,0.8099723910750891
+2015,Male,Managers and Directors in Transport and Logistics,,0.8386820710312366
+2015,Male,Managers and Directors in Transport and Logistics,,0.7844348916353215
+2015,Male,Senior Officers in Protective Services,,0.8259997190954874
+2015,Male,Senior Officers in Protective Services,,0.775626796695899
+2015,Male,Senior Officers in Protective Services,,0.8407600470825627
+2015,Male,Senior Officers in Protective Services,,0.9415137614678899
+2015,Male,Health and Social Services Managers and Directors,,0.3064766101909351
+2015,Male,Health and Social Services Managers and Directors,,0.3512149155280339
+2015,Male,Health and Social Services Managers and Directors,,0.23141639140622794
+2015,Male,Managers and Directors in Retail and Wholesale,,0.6058946032623548
+2015,Male,Managers and Directors in Retail and Wholesale,,0.6058946032623548
+2015,Male,Managers and Proprietors in Agriculture Related Services,,0.7261865640110793
+2015,Male,Managers and Proprietors in Agriculture Related Services,,0.8477659453518778
+2015,Male,Managers and Proprietors in Agriculture Related Services,,0.5283379586802344
+2015,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.565354200169101
+2015,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.4228569242247432
+2015,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5706139605322125
+2015,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5772578779700911
+2015,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6527155677567468
+2015,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.654178674351585
+2015,Male,Managers and Proprietors in Health and Care Services,,0.2331537589627988
+2015,Male,Managers and Proprietors in Health and Care Services,,0.15695206946229023
+2015,Male,Managers and Proprietors in Health and Care Services,,0.2701945643122114
+2015,Male,Manager and Proprietors in Other Services,,0.6166297688831329
+2015,Male,Manager and Proprietors in Other Services,,0.5907336117569547
+2015,Male,Manager and Proprietors in Other Services,,0.9593026961565428
+2015,Male,Manager and Proprietors in Other Services,,0.4019468295146701
+2015,Male,Manager and Proprietors in Other Services,,0.6239328650805176
+2015,Male,Manager and Proprietors in Other Services,,0.7144962239823172
+2015,Male,Manager and Proprietors in Other Services,,0.5978395960772891
+2015,Male,Natural and Social Science Professionals,,0.5031995548445434
+2015,Male,Natural and Social Science Professionals,,0.5478248936462193
+2015,Male,Natural and Social Science Professionals,,0.43977347635884223
+2015,Male,Natural and Social Science Professionals,,0.6807092387681642
+2015,Male,Natural and Social Science Professionals,,0.4823396226415094
+2015,Male,Engineering Professionals,,0.8231648736816546
+2015,Male,Engineering Professionals,,0.8231648736816546
+2015,Male,Information Technology and Telecommunications Professionals,,0.7711348220778569
+2015,Male,Information Technology and Telecommunications Professionals,,0.7634982081695573
+2015,Male,Information Technology and Telecommunications Professionals,,0.6683217101273499
+2015,Male,Information Technology and Telecommunications Professionals,,0.7933275936289281
+2015,Male,Information Technology and Telecommunications Professionals,,0.8146006157530147
+2015,Male,Conservation and Environment Professionals,,0.614083352844767
+2015,Male,Conservation and Environment Professionals,,0.6503964643182114
+2015,Male,Conservation and Environment Professionals,,0.5985055484302683
+2015,Male,Research and Development Managers,,0.5956624279705317
+2015,Male,Research and Development Managers,,0.5956624279705317
+2015,Male,Health Professionals,,0.4278746606543045
+2015,Male,Health Professionals,,0.4278746606543045
+2015,Male,Teaching and Educational Professionals,,0.3216117811921325
+2015,Male,Teaching and Educational Professionals,,0.33295747571559287
+2015,Male,Teaching and Educational Professionals,,0.3158076397524338
+2015,Male,Media Professionals,,0.47694905970421764
+2015,Male,Media Professionals,,0.3965130487115423
+2015,Male,Media Professionals,,0.6114210799109729
+2015,Male,Protective Service Occupations,,0.7637847329821299
+2015,Male,Protective Service Occupations,,0.7637847329821299
+2015,Male,Sports and Fitness Occupations,,0.6082354720024192
+2015,Male,Sports and Fitness Occupations,,0.6082354720024192
+2015,Male,"Sales, Marketing and Related Associate Professionals",,0.5944983482738596
+2015,Male,"Sales, Marketing and Related Associate Professionals",,0.6449235569282907
+2015,Male,"Sales, Marketing and Related Associate Professionals",,0.290124876544045
+2015,Male,Public Services and Other Associate Professionals,,0.4273926585457333
+2015,Male,Public Services and Other Associate Professionals,,0.4273926585457333
+2015,Male,Administrative Occupations: Office Managers and Supervisors,,0.28465112616160027
+2015,Male,Administrative Occupations: Office Managers and Supervisors,,0.28465112616160027
+2015,Male,Cleaning and Housekeeping Managers and Supervisors,,0.27747458997458996
+2015,Male,Cleaning and Housekeeping Managers and Supervisors,,0.27747458997458996
+2015,Male,Sales Related Occupations,,0.5509620833230678
+2015,Male,Sales Related Occupations,,0.5570051049347703
+2015,Male,Sales Related Occupations,,0.545433100585016
+2015,Female,Chief Executives and Senior Officials,,0.24750897242160938
+2015,Female,Chief Executives and Senior Officials,,0.2487536115030572
+2015,Female,Chief Executives and Senior Officials,,0.23850714355136554
+2015,Female,Production Managers and Directors,,0.09852113046681754
+2015,Female,Production Managers and Directors,,0.11957189709487738
+2015,Female,Production Managers and Directors,,0.06968423079391567
+2015,Female,Production Managers and Directors,,0.03235172127747823
+2015,Female,Functional Managers and Directors,,0.3425722856930895
+2015,Female,Functional Managers and Directors,,0.36750214135433384
+2015,Female,Functional Managers and Directors,,0.25702775021797303
+2015,Female,Functional Managers and Directors,,0.28303526844334304
+2015,Female,Functional Managers and Directors,,0.3961301671064204
+2015,Female,Functional Managers and Directors,,0.5640661561755181
+2015,Female,Functional Managers and Directors,,0.0857617643174715
+2015,Female,Functional Managers and Directors,,0.39233404364362207
+2015,Female,Financial Institution Managers and Directors,,0.3991383349820378
+2015,Female,Financial Institution Managers and Directors,,0.3991383349820378
+2015,Female,Managers and Directors in Transport and Logistics,,0.19002760892491083
+2015,Female,Managers and Directors in Transport and Logistics,,0.16131792896876337
+2015,Female,Managers and Directors in Transport and Logistics,,0.2155651083646785
+2015,Female,Senior Officers in Protective Services,,0.17400028090451253
+2015,Female,Senior Officers in Protective Services,,0.22437320330410102
+2015,Female,Senior Officers in Protective Services,,0.15923995291743737
+2015,Female,Senior Officers in Protective Services,,0.058486238532110095
+2015,Female,Health and Social Services Managers and Directors,,0.6935233898090649
+2015,Female,Health and Social Services Managers and Directors,,0.648785084471966
+2015,Female,Health and Social Services Managers and Directors,,0.7685836085937721
+2015,Female,Managers and Directors in Retail and Wholesale,,0.3941053967376452
+2015,Female,Managers and Directors in Retail and Wholesale,,0.3941053967376452
+2015,Female,Managers and Proprietors in Agriculture Related Services,,0.2738134359889207
+2015,Female,Managers and Proprietors in Agriculture Related Services,,0.15223405464812217
+2015,Female,Managers and Proprietors in Agriculture Related Services,,0.47166204131976563
+2015,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.43464579983089907
+2015,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.5771430757752568
+2015,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.42938603946778753
+2015,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4227421220299089
+2015,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.3472844322432532
+2015,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.345821325648415
+2015,Female,Managers and Proprietors in Health and Care Services,,0.7668462410372012
+2015,Female,Managers and Proprietors in Health and Care Services,,0.8430479305377098
+2015,Female,Managers and Proprietors in Health and Care Services,,0.7298054356877887
+2015,Female,Manager and Proprietors in Other Services,,0.3833702311168671
+2015,Female,Manager and Proprietors in Other Services,,0.4092663882430453
+2015,Female,Manager and Proprietors in Other Services,,0.0406973038434572
+2015,Female,Manager and Proprietors in Other Services,,0.5980531704853299
+2015,Female,Manager and Proprietors in Other Services,,0.3760671349194824
+2015,Female,Manager and Proprietors in Other Services,,0.28550377601768284
+2015,Female,Manager and Proprietors in Other Services,,0.40216040392271096
+2015,Female,Natural and Social Science Professionals,,0.4968004451554566
+2015,Female,Natural and Social Science Professionals,,0.4521751063537807
+2015,Female,Natural and Social Science Professionals,,0.5602265236411578
+2015,Female,Natural and Social Science Professionals,,0.31929076123183575
+2015,Female,Natural and Social Science Professionals,,0.5176603773584906
+2015,Female,Engineering Professionals,,0.17683512631834547
+2015,Female,Engineering Professionals,,0.17683512631834547
+2015,Female,Information Technology and Telecommunications Professionals,,0.22886517792214314
+2015,Female,Information Technology and Telecommunications Professionals,,0.2365017918304428
+2015,Female,Information Technology and Telecommunications Professionals,,0.3316782898726501
+2015,Female,Information Technology and Telecommunications Professionals,,0.2066724063710719
+2015,Female,Information Technology and Telecommunications Professionals,,0.18539938424698538
+2015,Female,Conservation and Environment Professionals,,0.38591664715523294
+2015,Female,Conservation and Environment Professionals,,0.34960353568178865
+2015,Female,Conservation and Environment Professionals,,0.4014944515697318
+2015,Female,Research and Development Managers,,0.40433757202946824
+2015,Female,Research and Development Managers,,0.40433757202946824
+2015,Female,Health Professionals,,0.5721253393456955
+2015,Female,Health Professionals,,0.5721253393456955
+2015,Female,Teaching and Educational Professionals,,0.6783882188078675
+2015,Female,Teaching and Educational Professionals,,0.6670425242844071
+2015,Female,Teaching and Educational Professionals,,0.6841923602475661
+2015,Female,Media Professionals,,0.5230509402957824
+2015,Female,Media Professionals,,0.6034869512884576
+2015,Female,Media Professionals,,0.3885789200890271
+2015,Female,Protective Service Occupations,,0.23621526701787005
+2015,Female,Protective Service Occupations,,0.23621526701787005
+2015,Female,Sports and Fitness Occupations,,0.39176452799758077
+2015,Female,Sports and Fitness Occupations,,0.39176452799758077
+2015,Female,"Sales, Marketing and Related Associate Professionals",,0.40550165172614033
+2015,Female,"Sales, Marketing and Related Associate Professionals",,0.3550764430717092
+2015,Female,"Sales, Marketing and Related Associate Professionals",,0.7098751234559549
+2015,Female,Public Services and Other Associate Professionals,,0.5726073414542667
+2015,Female,Public Services and Other Associate Professionals,,0.5726073414542667
+2015,Female,Administrative Occupations: Office Managers and Supervisors,,0.7153488738383997
+2015,Female,Administrative Occupations: Office Managers and Supervisors,,0.7153488738383997
+2015,Female,Cleaning and Housekeeping Managers and Supervisors,,0.72252541002541
+2015,Female,Cleaning and Housekeeping Managers and Supervisors,,0.72252541002541
+2015,Female,Sales Related Occupations,,0.44903791667693216
+2015,Female,Sales Related Occupations,,0.4429948950652297
+2015,Female,Sales Related Occupations,,0.45456689941498396
+2016,Male,,,0.6146762882336374
+2016,Female,,,0.38187738958881456
+2016,Male,Chief Executives and Senior Officials,,0.7644218360147983
+2016,Male,Chief Executives and Senior Officials,,0.797581366129461
+2016,Male,Chief Executives and Senior Officials,,0.49559255631733595
+2016,Male,Production Managers and Directors,,0.8849412501066887
+2016,Male,Production Managers and Directors,,0.8738006698370698
+2016,Male,Production Managers and Directors,,0.9060580829389051
+2016,Male,Production Managers and Directors,,0.8817823343848581
+2016,Male,Functional Managers and Directors,,0.620729884677209
+2016,Male,Functional Managers and Directors,,0.6044833679935171
+2016,Male,Functional Managers and Directors,,0.7650811876970659
+2016,Male,Functional Managers and Directors,,0.6153250241013635
+2016,Male,Functional Managers and Directors,,0.5044706138916148
+2016,Male,Functional Managers and Directors,,0.3489170784763436
+2016,Male,Functional Managers and Directors,,0.8976434704493701
+2016,Male,Functional Managers and Directors,,0.6059974032431835
+2016,Male,Financial Institution Managers and Directors,,0.6262687424953047
+2016,Male,Financial Institution Managers and Directors,,0.6262687424953047
+2016,Male,Managers and Directors in Transport and Logistics,,0.7865165576882515
+2016,Male,Managers and Directors in Transport and Logistics,,0.8055033306356222
+2016,Male,Managers and Directors in Transport and Logistics,,0.7725680310999314
+2016,Male,Senior Officers in Protective Services,,0.8864113218414449
+2016,Male,Senior Officers in Protective Services,,0.8723413782295258
+2016,Male,Senior Officers in Protective Services,,0.9258355034722222
+2016,Male,Senior Officers in Protective Services,,0.8338641865205759
+2016,Male,Health and Social Services Managers and Directors,,0.3351118430700161
+2016,Male,Health and Social Services Managers and Directors,,0.3899481468030587
+2016,Male,Health and Social Services Managers and Directors,,0.26558022922636104
+2016,Male,Managers and Directors in Retail and Wholesale,,0.6040926112183151
+2016,Male,Managers and Directors in Retail and Wholesale,,0.6040926112183151
+2016,Male,Managers and Proprietors in Agriculture Related Services,,0.5961136357300175
+2016,Male,Managers and Proprietors in Agriculture Related Services,,0.7656653890721098
+2016,Male,Managers and Proprietors in Agriculture Related Services,,0.31285831285831284
+2016,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5749156757804795
+2016,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.4033363203970497
+2016,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6419803223007772
+2016,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5536709415228871
+2016,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6740155606134988
+2016,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5136710896662646
+2016,Male,Managers and Proprietors in Health and Care Services,,0.16551190294908888
+2016,Male,Managers and Proprietors in Health and Care Services,,0.12889093029007526
+2016,Male,Managers and Proprietors in Health and Care Services,,0.18603592008079048
+2016,Male,Manager and Proprietors in Other Services,,0.602968529316516
+2016,Male,Manager and Proprietors in Other Services,,0.5944936620875302
+2016,Male,Manager and Proprietors in Other Services,,0.9402728958512081
+2016,Male,Manager and Proprietors in Other Services,,0.20913342308509886
+2016,Male,Manager and Proprietors in Other Services,,0.6058529118947803
+2016,Male,Manager and Proprietors in Other Services,,0.734562116005415
+2016,Male,Manager and Proprietors in Other Services,,0.5962080792682927
+2016,Male,Natural and Social Science Professionals,,0.5977814753189129
+2016,Male,Natural and Social Science Professionals,,0.802409483314006
+2016,Male,Natural and Social Science Professionals,,0.5151093458576136
+2016,Male,Natural and Social Science Professionals,,0.661179078742097
+2016,Male,Natural and Social Science Professionals,,0.6285073999719875
+2016,Male,Engineering Professionals,,0.8926956418712111
+2016,Male,Engineering Professionals,,0.8926956418712111
+2016,Male,Information Technology and Telecommunications Professionals,,0.803571260589892
+2016,Male,Information Technology and Telecommunications Professionals,,0.7943201705366343
+2016,Male,Information Technology and Telecommunications Professionals,,0.7707876211373195
+2016,Male,Information Technology and Telecommunications Professionals,,0.7927589979680861
+2016,Male,Information Technology and Telecommunications Professionals,,0.8315730815533674
+2016,Male,Conservation and Environment Professionals,,0.5883253034469924
+2016,Male,Conservation and Environment Professionals,,0.4657750456886526
+2016,Male,Conservation and Environment Professionals,,0.6289403408308785
+2016,Male,Research and Development Managers,,0.5864985332774582
+2016,Male,Research and Development Managers,,0.5864985332774582
+2016,Male,Health Professionals,,0.3911490277959024
+2016,Male,Health Professionals,,0.3911490277959024
+2016,Male,Teaching and Educational Professionals,,0.31426876027022094
+2016,Male,Teaching and Educational Professionals,,0.3333005893909627
+2016,Male,Teaching and Educational Professionals,,0.3066471941936626
+2016,Male,Media Professionals,,0.527635650790911
+2016,Male,Media Professionals,,0.4030795447629481
+2016,Male,Media Professionals,,0.7206122705556952
+2016,Male,Protective Service Occupations,,0.7014239418638908
+2016,Male,Protective Service Occupations,,0.7014239418638908
+2016,Male,Sports and Fitness Occupations,,0.5170940619521975
+2016,Male,Sports and Fitness Occupations,,0.5170940619521975
+2016,Male,"Sales, Marketing and Related Associate Professionals",,0.592554902232542
+2016,Male,"Sales, Marketing and Related Associate Professionals",,0.6276119402985074
+2016,Male,"Sales, Marketing and Related Associate Professionals",,0.36794217328326934
+2016,Male,Public Services and Other Associate Professionals,,0.370058573833859
+2016,Male,Public Services and Other Associate Professionals,,0.370058573833859
+2016,Male,Administrative Occupations: Office Managers and Supervisors,,0.21109265950046005
+2016,Male,Administrative Occupations: Office Managers and Supervisors,,0.21109265950046005
+2016,Male,Cleaning and Housekeeping Managers and Supervisors,,0.2476427834798409
+2016,Male,Cleaning and Housekeeping Managers and Supervisors,,0.2476427834798409
+2016,Male,Sales Related Occupations,,0.5048066709156576
+2016,Male,Sales Related Occupations,,0.35016079121412536
+2016,Male,Sales Related Occupations,,0.6251711924439197
+2016,Female,Chief Executives and Senior Officials,,0.23557816398520176
+2016,Female,Chief Executives and Senior Officials,,0.20241863387053907
+2016,Female,Chief Executives and Senior Officials,,0.5044074436826641
+2016,Female,Production Managers and Directors,,0.11505874989331133
+2016,Female,Production Managers and Directors,,0.1261993301629301
+2016,Female,Production Managers and Directors,,0.09394191706109493
+2016,Female,Production Managers and Directors,,0.11821766561514195
+2016,Female,Functional Managers and Directors,,0.3792701153227909
+2016,Female,Functional Managers and Directors,,0.3955166320064829
+2016,Female,Functional Managers and Directors,,0.23491881230293404
+2016,Female,Functional Managers and Directors,,0.38467497589863653
+2016,Female,Functional Managers and Directors,,0.49552938610838515
+2016,Female,Functional Managers and Directors,,0.6510829215236564
+2016,Female,Functional Managers and Directors,,0.10235652955062988
+2016,Female,Functional Managers and Directors,,0.3940025967568165
+2016,Female,Financial Institution Managers and Directors,,0.37373125750469527
+2016,Female,Financial Institution Managers and Directors,,0.37373125750469527
+2016,Female,Managers and Directors in Transport and Logistics,,0.21348344231174857
+2016,Female,Managers and Directors in Transport and Logistics,,0.19449666936437776
+2016,Female,Managers and Directors in Transport and Logistics,,0.22743196890006862
+2016,Female,Senior Officers in Protective Services,,0.11358867815855515
+2016,Female,Senior Officers in Protective Services,,0.12765862177047418
+2016,Female,Senior Officers in Protective Services,,0.07416449652777778
+2016,Female,Senior Officers in Protective Services,,0.16613581347942413
+2016,Female,Health and Social Services Managers and Directors,,0.6648881569299838
+2016,Female,Health and Social Services Managers and Directors,,0.6100518531969412
+2016,Female,Health and Social Services Managers and Directors,,0.734419770773639
+2016,Female,Managers and Directors in Retail and Wholesale,,0.3959073887816848
+2016,Female,Managers and Directors in Retail and Wholesale,,0.3959073887816848
+2016,Female,Managers and Proprietors in Agriculture Related Services,,0.4038863642699824
+2016,Female,Managers and Proprietors in Agriculture Related Services,,0.23433461092789018
+2016,Female,Managers and Proprietors in Agriculture Related Services,,0.6871416871416871
+2016,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4250843242195204
+2016,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.5966636796029503
+2016,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.3580196776992229
+2016,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4463290584771129
+2016,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.32598443938650123
+2016,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.48632891033373543
+2016,Female,Managers and Proprietors in Health and Care Services,,0.8344880970509111
+2016,Female,Managers and Proprietors in Health and Care Services,,0.8711090697099247
+2016,Female,Managers and Proprietors in Health and Care Services,,0.8139640799192095
+2016,Female,Manager and Proprietors in Other Services,,0.39703147068348404
+2016,Female,Manager and Proprietors in Other Services,,0.4055063379124698
+2016,Female,Manager and Proprietors in Other Services,,0.0597271041487919
+2016,Female,Manager and Proprietors in Other Services,,0.7908665769149011
+2016,Female,Manager and Proprietors in Other Services,,0.39414708810521965
+2016,Female,Manager and Proprietors in Other Services,,0.265437883994585
+2016,Female,Manager and Proprietors in Other Services,,0.40379192073170733
+2016,Female,Natural and Social Science Professionals,,0.4022185246810871
+2016,Female,Natural and Social Science Professionals,,0.19759051668599406
+2016,Female,Natural and Social Science Professionals,,0.48489065414238636
+2016,Female,Natural and Social Science Professionals,,0.338820921257903
+2016,Female,Natural and Social Science Professionals,,0.3714926000280125
+2016,Female,Engineering Professionals,,0.10730435812878893
+2016,Female,Engineering Professionals,,0.10730435812878893
+2016,Female,Information Technology and Telecommunications Professionals,,0.19642873941010797
+2016,Female,Information Technology and Telecommunications Professionals,,0.2056798294633657
+2016,Female,Information Technology and Telecommunications Professionals,,0.22921237886268056
+2016,Female,Information Technology and Telecommunications Professionals,,0.20724100203191384
+2016,Female,Information Technology and Telecommunications Professionals,,0.16842691844663257
+2016,Female,Conservation and Environment Professionals,,0.4116746965530076
+2016,Female,Conservation and Environment Professionals,,0.5342249543113474
+2016,Female,Conservation and Environment Professionals,,0.3710596591691215
+2016,Female,Research and Development Managers,,0.4135014667225418
+2016,Female,Research and Development Managers,,0.4135014667225418
+2016,Female,Health Professionals,,0.6088509722040976
+2016,Female,Health Professionals,,0.6088509722040976
+2016,Female,Teaching and Educational Professionals,,0.6857312397297791
+2016,Female,Teaching and Educational Professionals,,0.6666994106090374
+2016,Female,Teaching and Educational Professionals,,0.6933528058063374
+2016,Female,Media Professionals,,0.472364349209089
+2016,Female,Media Professionals,,0.596920455237052
+2016,Female,Media Professionals,,0.27938772944430473
+2016,Female,Protective Service Occupations,,0.2985760581361092
+2016,Female,Protective Service Occupations,,0.2985760581361092
+2016,Female,Sports and Fitness Occupations,,0.4829059380478025
+2016,Female,Sports and Fitness Occupations,,0.4829059380478025
+2016,Female,"Sales, Marketing and Related Associate Professionals",,0.4074450977674579
+2016,Female,"Sales, Marketing and Related Associate Professionals",,0.3723880597014925
+2016,Female,"Sales, Marketing and Related Associate Professionals",,0.6320578267167306
+2016,Female,Public Services and Other Associate Professionals,,0.629941426166141
+2016,Female,Public Services and Other Associate Professionals,,0.629941426166141
+2016,Female,Administrative Occupations: Office Managers and Supervisors,,0.7889073404995399
+2016,Female,Administrative Occupations: Office Managers and Supervisors,,0.7889073404995399
+2016,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7523572165201591
+2016,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7523572165201591
+2016,Female,Sales Related Occupations,,0.4951933290843425
+2016,Female,Sales Related Occupations,,0.6498392087858746
+2016,Female,Sales Related Occupations,,0.3748288075560803
+2017,Male,,,0.6073112411238337
+2017,Female,,,0.38898793797022074
+2017,Male,Chief Executives and Senior Officials,,0.6450724608550582
+2017,Male,Chief Executives and Senior Officials,,0.6385903357612365
+2017,Male,Chief Executives and Senior Officials,,0.7069294342021615
+2017,Male,Production Managers and Directors,,0.8819700868672241
+2017,Male,Production Managers and Directors,,0.8642119836666025
+2017,Male,Production Managers and Directors,,0.9090210424384021
+2017,Male,Production Managers and Directors,,0.8701851340149213
+2017,Male,Functional Managers and Directors,,0.6073039345737257
+2017,Male,Functional Managers and Directors,,0.5870771444239375
+2017,Male,Functional Managers and Directors,,0.7232548102688628
+2017,Male,Functional Managers and Directors,,0.6258052017242214
+2017,Male,Functional Managers and Directors,,0.6004835772153488
+2017,Male,Functional Managers and Directors,,0.41382595933053995
+2017,Male,Functional Managers and Directors,,0.8186635146426461
+2017,Male,Functional Managers and Directors,,0.5565517134775014
+2017,Male,Financial Institution Managers and Directors,,0.7064033733997
+2017,Male,Financial Institution Managers and Directors,,0.7064033733997
+2017,Male,Managers and Directors in Transport and Logistics,,0.7917277475540498
+2017,Male,Managers and Directors in Transport and Logistics,,0.8343722762227347
+2017,Male,Managers and Directors in Transport and Logistics,,0.7504088941151318
+2017,Male,Senior Officers in Protective Services,,0.9263104860791659
+2017,Male,Senior Officers in Protective Services,,1.0
+2017,Male,Senior Officers in Protective Services,,0.8346953937592868
+2017,Male,Senior Officers in Protective Services,,0.7653521452526888
+2017,Male,Health and Social Services Managers and Directors,,0.3755259400285578
+2017,Male,Health and Social Services Managers and Directors,,0.4226759404681774
+2017,Male,Health and Social Services Managers and Directors,,0.29299646550595626
+2017,Male,Managers and Directors in Retail and Wholesale,,0.6462625852621176
+2017,Male,Managers and Directors in Retail and Wholesale,,0.6462625852621176
+2017,Male,Managers and Proprietors in Agriculture Related Services,,0.7283340366106055
+2017,Male,Managers and Proprietors in Agriculture Related Services,,0.7966702592319473
+2017,Male,Managers and Proprietors in Agriculture Related Services,,0.562271693431663
+2017,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5579406883613537
+2017,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.4423071322480123
+2017,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.5515331882319845
+2017,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6560023919868441
+2017,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.6774993372526393
+2017,Male,Managers and Proprietors in Hospitality and Leisure Services,,0.41332943583747445
+2017,Male,Managers and Proprietors in Health and Care Services,,0.20243328506412908
+2017,Male,Managers and Proprietors in Health and Care Services,,0.1282449613670741
+2017,Male,Managers and Proprietors in Health and Care Services,,0.2367490497891572
+2017,Male,Manager and Proprietors in Other Services,,0.5759067033950639
+2017,Male,Manager and Proprietors in Other Services,,0.5633165974983313
+2017,Male,Manager and Proprietors in Other Services,,0.899301301367595
+2017,Male,Manager and Proprietors in Other Services,,0.21686904295599949
+2017,Male,Manager and Proprietors in Other Services,,0.6033997461228544
+2017,Male,Manager and Proprietors in Other Services,,0.6317669987007363
+2017,Male,Manager and Proprietors in Other Services,,0.5603198823934423
+2017,Male,Natural and Social Science Professionals,,0.5944198245455368
+2017,Male,Natural and Social Science Professionals,,0.6655139369192951
+2017,Male,Natural and Social Science Professionals,,0.4931015882529218
+2017,Male,Natural and Social Science Professionals,,0.7475488441995276
+2017,Male,Natural and Social Science Professionals,,0.7214043035107588
+2017,Male,Engineering Professionals,,0.805204695893119
+2017,Male,Engineering Professionals,,0.805204695893119
+2017,Male,Information Technology and Telecommunications Professionals,,0.8159581000263704
+2017,Male,Information Technology and Telecommunications Professionals,,0.8501546840173576
+2017,Male,Information Technology and Telecommunications Professionals,,0.6949296159628263
+2017,Male,Information Technology and Telecommunications Professionals,,0.7645320042137702
+2017,Male,Information Technology and Telecommunications Professionals,,0.8450486776136032
+2017,Male,Conservation and Environment Professionals,,0.6138629755810427
+2017,Male,Conservation and Environment Professionals,,0.6216579938991567
+2017,Male,Conservation and Environment Professionals,,0.6119286684328873
+2017,Male,Research and Development Managers,,0.5917720287881735
+2017,Male,Research and Development Managers,,0.5917720287881735
+2017,Male,Health Professionals,,0.2743540203318828
+2017,Male,Health Professionals,,0.2743540203318828
+2017,Male,Teaching and Educational Professionals,,0.2759012999608333
+2017,Male,Teaching and Educational Professionals,,0.31733200714791465
+2017,Male,Teaching and Educational Professionals,,0.2516964927658988
+2017,Male,Media Professionals,,0.4627827741796863
+2017,Male,Media Professionals,,0.3308963002522974
+2017,Male,Media Professionals,,0.6276590846302607
+2017,Male,Protective Service Occupations,,0.6441959938795382
+2017,Male,Protective Service Occupations,,0.6441959938795382
+2017,Male,Sports and Fitness Occupations,,0.5901196111543745
+2017,Male,Sports and Fitness Occupations,,0.5901196111543745
+2017,Male,"Sales, Marketing and Related Associate Professionals",,0.6051220432177257
+2017,Male,"Sales, Marketing and Related Associate Professionals",,0.6426431085381963
+2017,Male,"Sales, Marketing and Related Associate Professionals",,0.3369554886741644
+2017,Male,Public Services and Other Associate Professionals,,0.34572968015590966
+2017,Male,Public Services and Other Associate Professionals,,0.34572968015590966
+2017,Male,Administrative Occupations: Office Managers and Supervisors,,0.2300022182786158
+2017,Male,Administrative Occupations: Office Managers and Supervisors,,0.2300022182786158
+2017,Male,Cleaning and Housekeeping Managers and Supervisors,,0.24824235185537066
+2017,Male,Cleaning and Housekeeping Managers and Supervisors,,0.24824235185537066
+2017,Male,Sales Related Occupations,,0.54682044228124
+2017,Male,Sales Related Occupations,,0.5825081135058667
+2017,Male,Sales Related Occupations,,0.5205680705190989
+2017,Female,Chief Executives and Senior Officials,,0.3549275391449418
+2017,Female,Chief Executives and Senior Officials,,0.36140966423876353
+2017,Female,Chief Executives and Senior Officials,,0.2930705657978385
+2017,Female,Production Managers and Directors,,0.11802991313277587
+2017,Female,Production Managers and Directors,,0.1357880163333976
+2017,Female,Production Managers and Directors,,0.09097895756159793
+2017,Female,Production Managers and Directors,,0.12981486598507874
+2017,Female,Functional Managers and Directors,,0.39269606542627433
+2017,Female,Functional Managers and Directors,,0.4129228555760624
+2017,Female,Functional Managers and Directors,,0.27674518973113715
+2017,Female,Functional Managers and Directors,,0.37419479827577856
+2017,Female,Functional Managers and Directors,,0.39951642278465116
+2017,Female,Functional Managers and Directors,,0.58617404066946
+2017,Female,Functional Managers and Directors,,0.18133648535735394
+2017,Female,Functional Managers and Directors,,0.44344828652249857
+2017,Female,Financial Institution Managers and Directors,,0.29359662660029995
+2017,Female,Financial Institution Managers and Directors,,0.29359662660029995
+2017,Female,Managers and Directors in Transport and Logistics,,0.2082722524459502
+2017,Female,Managers and Directors in Transport and Logistics,,0.16562772377726537
+2017,Female,Managers and Directors in Transport and Logistics,,0.24959110588486824
+2017,Female,Senior Officers in Protective Services,,0.07368951392083416
+2017,Female,Senior Officers in Protective Services,,0.0
+2017,Female,Senior Officers in Protective Services,,0.16530460624071322
+2017,Female,Senior Officers in Protective Services,,0.2346478547473112
+2017,Female,Health and Social Services Managers and Directors,,0.6244740599714421
+2017,Female,Health and Social Services Managers and Directors,,0.5773240595318226
+2017,Female,Health and Social Services Managers and Directors,,0.7070035344940437
+2017,Female,Managers and Directors in Retail and Wholesale,,0.3537374147378824
+2017,Female,Managers and Directors in Retail and Wholesale,,0.3537374147378824
+2017,Female,Managers and Proprietors in Agriculture Related Services,,0.2716659633893946
+2017,Female,Managers and Proprietors in Agriculture Related Services,,0.20332974076805263
+2017,Female,Managers and Proprietors in Agriculture Related Services,,0.4377283065683369
+2017,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.44205931163864637
+2017,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.5576928677519877
+2017,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.4484668117680155
+2017,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.34399760801315593
+2017,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.3225006627473607
+2017,Female,Managers and Proprietors in Hospitality and Leisure Services,,0.5866705641625256
+2017,Female,Managers and Proprietors in Health and Care Services,,0.797566714935871
+2017,Female,Managers and Proprietors in Health and Care Services,,0.8717550386329259
+2017,Female,Managers and Proprietors in Health and Care Services,,0.7632509502108428
+2017,Female,Manager and Proprietors in Other Services,,0.4240932966049361
+2017,Female,Manager and Proprietors in Other Services,,0.43668340250166876
+2017,Female,Manager and Proprietors in Other Services,,0.10069869863240505
+2017,Female,Manager and Proprietors in Other Services,,0.7831309570440005
+2017,Female,Manager and Proprietors in Other Services,,0.39660025387714554
+2017,Female,Manager and Proprietors in Other Services,,0.36823300129926373
+2017,Female,Manager and Proprietors in Other Services,,0.4396801176065577
+2017,Female,Natural and Social Science Professionals,,0.40558017545446323
+2017,Female,Natural and Social Science Professionals,,0.334486063080705
+2017,Female,Natural and Social Science Professionals,,0.5068984117470782
+2017,Female,Natural and Social Science Professionals,,0.25245115580047234
+2017,Female,Natural and Social Science Professionals,,0.2785956964892412
+2017,Female,Engineering Professionals,,0.19479530410688098
+2017,Female,Engineering Professionals,,0.19479530410688098
+2017,Female,Information Technology and Telecommunications Professionals,,0.18404189997362966
+2017,Female,Information Technology and Telecommunications Professionals,,0.14984531598264245
+2017,Female,Information Technology and Telecommunications Professionals,,0.3050703840371737
+2017,Female,Information Technology and Telecommunications Professionals,,0.2354679957862298
+2017,Female,Information Technology and Telecommunications Professionals,,0.1549513223863968
+2017,Female,Conservation and Environment Professionals,,0.38613702441895725
+2017,Female,Conservation and Environment Professionals,,0.37834200610084334
+2017,Female,Conservation and Environment Professionals,,0.38807133156711265
+2017,Female,Research and Development Managers,,0.40822797121182647
+2017,Female,Research and Development Managers,,0.40822797121182647
+2017,Female,Health Professionals,,0.7256459796681172
+2017,Female,Health Professionals,,0.7256459796681172
+2017,Female,Teaching and Educational Professionals,,0.7240987000391667
+2017,Female,Teaching and Educational Professionals,,0.6826679928520853
+2017,Female,Teaching and Educational Professionals,,0.7483035072341012
+2017,Female,Media Professionals,,0.5372172258203137
+2017,Female,Media Professionals,,0.6691036997477027
+2017,Female,Media Professionals,,0.3723409153697394
+2017,Female,Protective Service Occupations,,0.3558040061204618
+2017,Female,Protective Service Occupations,,0.3558040061204618
+2017,Female,Sports and Fitness Occupations,,0.4098803888456255
+2017,Female,Sports and Fitness Occupations,,0.4098803888456255
+2017,Female,"Sales, Marketing and Related Associate Professionals",,0.3948779567822743
+2017,Female,"Sales, Marketing and Related Associate Professionals",,0.3573568914618037
+2017,Female,"Sales, Marketing and Related Associate Professionals",,0.6630445113258355
+2017,Female,Public Services and Other Associate Professionals,,0.6542703198440903
+2017,Female,Public Services and Other Associate Professionals,,0.6542703198440903
+2017,Female,Administrative Occupations: Office Managers and Supervisors,,0.7699977817213842
+2017,Female,Administrative Occupations: Office Managers and Supervisors,,0.7699977817213842
+2017,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7517576481446293
+2017,Female,Cleaning and Housekeeping Managers and Supervisors,,0.7517576481446293
+2017,Female,Sales Related Occupations,,0.4531795577187599
+2017,Female,Sales Related Occupations,,0.4174918864941333
+2017,Female,Sales Related Occupations,,0.4794319294809011
